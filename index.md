@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="http://tinyimg.io/i/tEbX8xw.png"/>
+</p>
 ## Pixo Classic
 
 You can use the [editor on GitHub](https://github.com/Pixocoin/PixoClassic/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
