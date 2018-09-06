@@ -56,7 +56,7 @@ This project is licensed under the MIT License http://opensource.org/licenses/MI
 * Acknowledgement to Zcash!
 * All the parents to my coin!
 * To the real inventor of computer money - Satoshi!
-* Inspiration - Charlie Lee, and Vitalik Buterin!
+* Inspiration - Charlie Lee, Vitalik Buterin, and Master!
 * My parents, my sister, and my brother!
 
 ## Donations
