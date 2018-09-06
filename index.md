@@ -14,9 +14,9 @@ Pixo™ Cash is a decentralized pseudonymous digital asset built on cryptography
 * Coin Name = Pixo™ Classic
 * Ticker = PIXOC
 * ICO = N/A
-* Algorithm = Scrypt
+* Algorithm = Equihash
 * Type = PoW
-* Block Reward = 3.00
+* Block Reward = 6.00
 * Re-Target = 1 block
 * Total Supply = 162,000,000
 * Block Time = 180 sec
@@ -24,38 +24,30 @@ Pixo™ Cash is a decentralized pseudonymous digital asset built on cryptography
 * Transaction Confirmations = 6 blocks
 * Block Size = 2 MB
 * Decimals = 8
-* Address letter = P
+* Address letter = C
 * RPC Port = 55667
 * Port = 55666
 
 ## Development
 ### Build 3.0.0 Wallet Build 3.1.0
-This is the first release after the 51% attack.  This version of the software will help with a majority attack (51% attack)!
+Pixo Classic is currently under development!
 
 ## Getting Started 
 
 ### Prerequisites
 
 ```
-sudo apt-get update
-sudo apt-get upgrade
-sudo add-apt-repository ppa:bitcoin/bitcoin
-sudo apt-get update
-sudo apt-get install libdb4.8-dev
-sudo apt-get install libdb4.8++-dev
-sudo apt-get install libboost-all-dev
-sudo apt-get install libssl-dev libdb-dev libdb++-dev libqrencode-dev qt4-qmake libqtgui4 libqt4-dev git
-sudo apt-get install build-essential libminiupnpc-dev 
+
 ```
 
 ### Installing
 ```
-git clone https://github.com/Pixocoin/Pixo-Cash.git
+git clone https://github.com/Pixocoin/PixoClassic.git
 ```
 ## Deployment
 
 ```
-cd Pixo-Cash
+cd PixoClassic
 cd src
 make -f makefile.unix USE_UPNP=-
 ./PixoCashd
