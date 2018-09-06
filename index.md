@@ -2,7 +2,7 @@
 	<img src="http://tinyimg.io/i/tEbX8xw.png"/>
 </p>
 
-# Pixo® Classic(PIXOC)
+# Pixo® Classic (PIXOC)
 * __Website:__ www.pixocash.org
 * __Twitter:__ [https://twitter.com/pixocoin](https://twitter.com/pixocoin)
 * __Discord:__ [https://discord.gg/33MZM3y](https://discord.gg/33MZM3y)
@@ -11,22 +11,22 @@
 Pixo™ Cash is a decentralized pseudonymous digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.  A derivative of bitcoin/litecoin.  Scrypt hashing algorithms.
 
 ## Specifications
-* Coin Name = Pixo™ Cash
+* Coin Name = Pixo™ Classic
 * Ticker = PIXOC
 * ICO = N/A
 * Algorithm = Scrypt
 * Type = PoW
 * Block Reward = 3.00
 * Re-Target = 1 block
-* Total Supply = 81,000,000
-* Block Time = 360 sec
+* Total Supply = 162,000,000
+* Block Time = 180 sec
 * Coin Maturity = 120 blocks
 * Transaction Confirmations = 6 blocks
 * Block Size = 2 MB
 * Decimals = 8
 * Address letter = P
-* RPC Port = 55664
-* Port = 55665
+* RPC Port = 55667
+* Port = 55666
 
 ## Development
 ### Build 3.0.0 Wallet Build 3.1.0
