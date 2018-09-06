@@ -35,7 +35,6 @@ Pixo Classic is currently under development!
 ### Prerequisites
 
 ```
-
 ```
 
 ### Installing
@@ -45,7 +44,6 @@ git clone https://github.com/Pixocoin/PixoClassic.git
 ## Deployment
 
 ```
-
 ```
 
 ## License
@@ -56,7 +54,7 @@ This project is licensed under the MIT License http://opensource.org/licenses/MI
 * Acknowledgement to Zcash!
 * All the parents to my coin!
 * To the real inventor of computer money - Satoshi!
-* Inspiration - Charlie Lee, Vitalik Buterin, and Master!
+* Inspiration - Charlie Lee, Vitalik Buterin, and The guy who programmed bitcoin!
 * My parents, my sister, and my brother!
 
 ## Donations
