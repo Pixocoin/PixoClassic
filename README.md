@@ -45,13 +45,7 @@ git clone https://github.com/Pixocoin/PixoClassic.git
 ## Deployment
 
 ```
-cd PixoClassic
-cd src
-make -f makefile.unix USE_UPNP=-
-./PixoClassicd
-cd ..
-qmake "USE_UPNP=1" "USE_QRCODE=1" "USE_IPV6=1" pixocash-qt.pro
-make
+
 ```
 
 ## License
