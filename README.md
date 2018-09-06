@@ -55,7 +55,7 @@ This project is licensed under the MIT License http://opensource.org/licenses/MI
 * All the parents to my coin!
 * To the real inventor of computer money - Satoshi!
 * Inspiration - Charlie Lee, Vitalik Buterin, and The guy who programmed bitcoin!
-* My parents, my sister, and my brother!
+* My Mom, my Sister, and my Brother!
 
 ## Donations
 
