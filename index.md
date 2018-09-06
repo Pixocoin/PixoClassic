@@ -2,7 +2,7 @@
 	<img src="http://tinyimg.io/i/tEbX8xw.png"/>
 </p>
 
-# Pixo® Classic (PIXOC)
+# Pixo® Classic (PXOCL)
 * __Website:__ http://www.pixoclassic.org
 
 
@@ -10,7 +10,7 @@ Pixo™ Cash is a decentralized pseudonymous digital asset built on cryptography
 
 ## Specifications
 * Coin Name = Pixo™ Classic
-* Ticker = PIXOC
+* Ticker = PXOCL
 * ICO = N/A
 * Algorithm = Equihash
 * Type = PoW
