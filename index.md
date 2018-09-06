@@ -27,7 +27,7 @@ Pixo™ Cash is a decentralized pseudonymous digital asset built on cryptography
 * Port = 55666
 
 ## Development
-### Build 3.0.0 Wallet Build 3.1.0
+### Build 1.0.0 Wallet Build 1.0.0
 Pixo Classic is currently under development!
 
 ## Getting Started 
@@ -48,7 +48,7 @@ git clone https://github.com/Pixocoin/PixoClassic.git
 cd PixoClassic
 cd src
 make -f makefile.unix USE_UPNP=-
-./PixoCashd
+./PixoClassicd
 cd ..
 qmake "USE_UPNP=1" "USE_QRCODE=1" "USE_IPV6=1" pixocash-qt.pro
 make
