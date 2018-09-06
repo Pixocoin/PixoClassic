@@ -9,7 +9,7 @@
 Pixo® Classic is a decentralized anonymous digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology with Proof-of-Work.  A derivative of ZCash.  Equihash hashing algorithms.
 
 ## Specifications
-* Coin Name = Pixo™ Classic
+* Coin Name = Pixo® Classic
 * Ticker = XOCL
 * ICO = N/A
 * Algorithm = Equihash
@@ -50,7 +50,7 @@ git clone https://github.com/Pixocoin/PixoClassic.git
 
 ## License
 
-This project is licensed under the MIT License http://opensource.org/licenses/MIT.  Copyright (c) 2009-2012 Bitcoin Core Developers, Copyright © 2011-2012 Litecoin Developers, Copyright © 2018 PixoCash.org, Copyright © 2018 PixoCash Developers, PIXO™.
+This project is licensed under the MIT License http://opensource.org/licenses/MIT.  Copyright© 2018 Pixoclassic.org, Copyright© 2018 PixoClassic Developers, PIXO®.
 ## Acknowledgments
 
 * Acknowledgement to anyone who's code was used!
