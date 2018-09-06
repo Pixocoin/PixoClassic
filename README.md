@@ -6,7 +6,7 @@
 * __Website:__ http://www.pixoclassic.org
 
 
-Pixo® Classic is a decentralized anonymous digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology.  A derivative of ZCash.  Equihash hashing algorithms.
+Pixo® Classic is a decentralized anonymous digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology with Proof-of-Work.  A derivative of ZCash.  Equihash hashing algorithms.
 
 ## Specifications
 * Coin Name = Pixo™ Classic
