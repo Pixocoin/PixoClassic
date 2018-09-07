@@ -23,8 +23,8 @@ Pixo® Classic is a decentralized anonymous digital asset built on cryptography 
 * Block Size = 2 MB
 * Decimals = 8
 * Address letter = C
-* RPC Port = 55667
-* Port = 55666
+* RPC Port = 55666
+* Port = 55667
 
 ## Development
 ### Build 1.0.0 Wallet Build 1.0.0
