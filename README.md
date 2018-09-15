@@ -48,7 +48,7 @@ git clone https://github.com/Pixocoin/PixoClassic.git
 
 ## License
 
-This project is licensed under the MIT License http://opensource.org/licenses/MIT.  Copyright © 2018 Pixoclassic.org, Copyright © 2018 PixoClassic Developers, PIXO®.
+This project is licensed under the MIT License http://opensource.org/licenses/MIT.  Copyright © 2018 Pixoclassic.org, Copyright © 2018 PixoClassic Developers, and PIXO®.
 ## Acknowledgments
 
 * Acknowledgement to Zcash!
