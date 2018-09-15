@@ -9,7 +9,8 @@
 Pixo® Classic is a decentralized anonymous digital asset built on cryptography with peer-to-peer networking powered by Blockchain technology with Proof-of-Work.  A derivative of ZCash.  Equihash hashing algorithms.
 
 ## Specifications
-```* Coin Name = Pixo® Classic
+```
+* Coin Name = Pixo® Classic
 * Ticker = XOCL
 * ICO = N/A
 * Algorithm = Equihash
@@ -24,7 +25,8 @@ Pixo® Classic is a decentralized anonymous digital asset built on cryptography 
 * Decimals = 8
 * Address letter = C
 * RPC Port = 55666
-* Port = 55667```
+* Port = 55667
+```
 
 ## Development
 ### Build 1.0.0 Wallet Build 1.0.0
